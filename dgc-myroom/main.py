@@ -20,8 +20,8 @@ class Main(QMainWindow):
 
         self.scene = AcousticScene(mic_count=2, mic_radius=1.0)
 
-        self.scene.add_speaker(Speaker(path="", pos=np.array([0.5, -2, 0])))
-        self.scene.add_speaker(Speaker(path="", pos=np.array([-0.5, -2, 0])))
+        self.scene.add_speaker(Speaker(path="", pos=np.array([2, -2, 0])))
+        self.scene.add_speaker(Speaker(path="", pos=np.array([-2, -2, 0])))
 
         self.preview = SpacePreview(self.scene)
         self.setCentralWidget(self.preview)
