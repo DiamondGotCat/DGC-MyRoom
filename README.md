@@ -15,6 +15,7 @@ python3 -m dgc-myroom
 
 ## Technical Documentations
 Technical Documentations are not currently available, so please use DeepWiki instead.
+
 Link: [DeepWiki](https://deepwiki.com/DiamondGotCat/DGC-MyRoom/)
 
 ## Screenshots
