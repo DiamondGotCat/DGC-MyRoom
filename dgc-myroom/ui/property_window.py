@@ -24,7 +24,7 @@ class PropertyWindow(QDockWidget):
         form.addRow("Room X [m]", self._size_x)
         form.addRow("Room Y [m]", self._size_y)
         form.addRow("Room Z [m]", self._size_z)
-        form.addRow("Absorption (0 = No sound effects)", self._absorpt)
+        form.addRow("Absorption", self._absorpt)
         form.addRow("Mic count (Number of channels after output)", self._mic_cnt)
         form.addRow("Mic radius [m]", self._mic_rad)
 
