@@ -10,6 +10,8 @@ This is an open source acoustic simulation software.
 
 ## Start DGC-MyRoom
 ```
+git clone https://github.com/DiamondGotCat/DGC-MyRoom.git
+cd DGC-MyRoom
 python3 -m dgc-myroom
 ```
 
