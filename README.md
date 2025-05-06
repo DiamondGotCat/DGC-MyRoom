@@ -1,3 +1,6 @@
+
+![DGC-MyRoom Wall](https://github.com/user-attachments/assets/63ca6b54-358f-455b-b017-4751931d19ce)
+
 # DGC-MyRoom
 This is an open source acoustic simulation software.
 
